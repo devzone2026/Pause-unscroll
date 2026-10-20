@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937848228202",
+    "project_id": "pause-and-unscroll",
+    "storage_bucket": "pause-and-unscroll.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937848228202:android:6a57ba68f80489569b3d13",
+        "android_client_info": {
+          "package_name": "com.pauseandunscroll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHHmooqob0DW5sv-PW9jg8S9Ued17xqbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
